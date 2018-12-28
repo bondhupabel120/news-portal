@@ -1,0 +1,22 @@
+.img-responsive-two{
+    height: 25%;
+    width: 100%;
+}
+
+.comment-one{
+    font: 25px "Open Sans";
+}
+
+.logo-font-one{
+    color: #6f42c1;
+    font: italic 30px "Open Sans";
+}
+
+.logo-font-two{
+    color: whitesmoke;
+    transform: rotateX(90grad);
+}
+
+.logo-font-three{
+    color: #0b0b0b;
+}
